@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<layout>
+
+    <!-- Checkout -->
+
+    <checkout_onepage_index>
+
+        <reference name="head">
+
+            <action method="addJs"><file>fastandfree/checkout.js</file></action>
+
+        </reference>
+
+    </checkout_onepage_index>
+
+</layout>
